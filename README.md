@@ -33,7 +33,7 @@ It involves:
 
 ## 📡 System Architecture
 
-mermaid
+```mermaid
 graph TD
     Sensors --> Arduino
     Arduino -->|UART| NodeMCU
@@ -42,7 +42,7 @@ graph TD
     RaspberryPi -->|Firebase SDK| Firebase
     MITAppInventor -->|Firebase| Firebase
     MITAppInventor -->|Control Signals| Firebase --> RaspberryPi -->|MQTT| NodeMCU --> |UART| Arduino --> Relays
-
+```
 
 ---
 
