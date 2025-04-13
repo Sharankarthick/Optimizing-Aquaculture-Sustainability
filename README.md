@@ -98,10 +98,6 @@ Optimizing-Aquaculture-Sustainability/
 
 │   └── aia_file/
 
-├── database/
-
-│   └── schema.sql
-
 └── README.md
 
 ---
@@ -117,3 +113,20 @@ Optimizing-Aquaculture-Sustainability/
 ---
 
 ## 📸 Screenshots / GIFs
+
+![Flow Chart](/images/FlowChart.jpg)
+
+![Setup](/images/Setup.jpg)
+
+![](/images/Setup2.jpg)
+
+### App Interface
+
+![App Interface](/images/app1.jpg)
+![](/images/app2.jpg)
+![](/images/app3.jpg)
+![](/images/app4.jpg)
+![](/images/app5.jpg)
+![](/images/app6.jpg)
+![](/images/app7.jpg)
+![](/images/app8.jpg)
